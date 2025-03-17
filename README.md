@@ -87,7 +87,7 @@ This project includes **Swagger UI** for API testing and documentation.
 
 After running the server, open in your browser:
 ```
-http://localhost:5000/api-docs
+http://localhost:3000/api-docs
 ```
 
 ---
@@ -123,7 +123,7 @@ This project is licensed under the **MIT License**.
 ## 📩 Contact
 For questions or support, reach out via:
 - **GitHub:** [Alexanderlecky](https://github.com/Alexanderlecky)
-- **Email:** your-email@example.com
+- **Email:** alexanderkaranja78@gmail.com
 
 🚀 Happy Coding!
 
